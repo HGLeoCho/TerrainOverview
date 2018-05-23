@@ -1,2 +1,2 @@
 # TerrainOverview
-https://hgleocho.github.io/TerrainOverview/ [Live Online]
+[Online Link](https://hgleocho.github.io/TerrainOverview/)
